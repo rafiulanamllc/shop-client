@@ -195,7 +195,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             {/* Copyright */}
             <p className="text-gray-500 text-sm">
-              © 2025 Orebi. All rights reserved.
+              © 2025 Rafiul Anam LLC. All rights reserved.
             </p>
 
             {/* Payment Methods */}
