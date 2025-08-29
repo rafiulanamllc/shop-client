@@ -10,7 +10,7 @@ const checkConfig = (server) => {
       break;
     case "local":
       config = {
-        baseUrl: "http://localhost:8000",
+        baseUrl: "https://llc-shop-server.vercel.app",
       };
       break;
     default:
